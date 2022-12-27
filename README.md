@@ -1,1 +1,1 @@
-[Netlify link](https://speed-typing-game-react-kiren.netlify.app/)
+[App hosted  Netlify link](https://speed-typing-game-react-kiren.netlify.app/)
